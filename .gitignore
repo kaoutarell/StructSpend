@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+
+# FastAPI / tooling
+.pytest_cache/
+.mypy_cache/
+
+# macOS
+.DS_Store
+
+# Node / Expo (if repo is monorepo)
+node_modules/
+.expo/
+dist/
